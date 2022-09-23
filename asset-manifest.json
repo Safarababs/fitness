@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/fitness/static/js/main.8e22821c.js",
+    "static/media/coach4.png": "/fitness/static/media/coach4.584b642e3bbaf8da1298.png",
+    "static/media/coach1.png": "/fitness/static/media/coach1.d741cc8b30b4187aa94e.png",
+    "static/media/about.jpg": "/fitness/static/media/about.50ee160f9f9c2af6cc94.jpg",
+    "static/media/coach3.png": "/fitness/static/media/coach3.25fc84e38b0ebac8a65c.png",
+    "static/media/coach2.png": "/fitness/static/media/coach2.e8015956015127a1a471.png",
+    "static/media/img4.jpg": "/fitness/static/media/img4.c39a220fcff2228808e9.jpg",
+    "static/media/img1.jpg": "/fitness/static/media/img1.50dcf5b36b233b526090.jpg",
+    "static/media/img5.jpg": "/fitness/static/media/img5.afe5ddc2e0865c7c7910.jpg",
+    "static/media/img3.jpg": "/fitness/static/media/img3.cac1f77ed4c28381eb55.jpg",
+    "static/media/img6.jpg": "/fitness/static/media/img6.3ddb7e10422bffb59fa3.jpg",
+    "static/media/img2.jpg": "/fitness/static/media/img2.e34addecfdf0031130a4.jpg",
+    "index.html": "/fitness/index.html",
+    "main.8e22821c.js.map": "/fitness/static/js/main.8e22821c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8e22821c.js"
+  ]
+}
